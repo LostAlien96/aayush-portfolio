@@ -4,9 +4,8 @@ import About from "./components/About";
 import Timeline from "./components/Timeline";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import ContactCards from "./components/ContactCards";
 import Footer from "./components/Footer";
-import Contact from "./components/contact";
+import Contact from "./components/Contact";
 
 function App() {
   return (
