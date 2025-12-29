@@ -4,8 +4,8 @@ export const projects = [
     desc: "A real-world map-based pathfinding visualizer that demonstrates classical graph traversal and shortest-path algorithms on actual road networks using OpenStreetMap data.",
     tech: ["Python", "HTML", "JavaScript", "FastAPI", "OSMnx", "NetworkX (via OSMnx)", "Leaflet.js", "OpenStreetMap tiles"],
     media: {
-      type: "image",
-      src: "https://private-user-images.githubusercontent.com/172929555/528911606-798c9b89-5779-4688-ae30-9676187865f8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5OTYzNzMsIm5iZiI6MTc2Njk5NjA3MywicGF0aCI6Ii8xNzI5Mjk1NTUvNTI4OTExNjA2LTc5OGM5Yjg5LTU3NzktNDY4OC1hZTMwLTk2NzYxODc4NjVmOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyOVQwODE0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMWRmN2UyYTFkZWRjNjEzZTAzYWY3ZmQxZGVhMDhjYTA5Yzc5MTVmZGFlZWUzNjgxOGY5NmZlZDlmNTBiMmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gSqEz1UFwth_Wb7LWReFy7GkjRP0KeH21YaWVLA5huI",
+      type: "video",
+      src: "https://res.cloudinary.com/df0jsgcqg/video/upload/v1767011376/WorkingDemo_fe4z3t.mp4",
     },
     demo: "https://drive.google.com/file/d/1bsUPzlLIV6Sqxvzx9OBASlhFuln9-a7f/view?usp=drive_link",
     github: "https://github.com/LostAlien96/map-pathfinding-visualizer",
